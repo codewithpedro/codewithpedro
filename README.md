@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bootcamp TripleTen**
 
-- 🌱 I’m currently learning **javascript, python**
+- 🌱 I’m currently learning **Javascript, React, FullStack MERN**
 
 - 👯 I’m looking to collaborate on **AI**
 
